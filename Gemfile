@@ -13,4 +13,4 @@ end
 #   gem "rspec"
 # end
 
-group "rspec", group: :test
+gem "rspec", group: :test
